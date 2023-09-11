@@ -93,9 +93,6 @@ add_path() {
 ##     ENSURE DEPENDENCIES ARE INSTALLED     ##
 ###############################################
 
-## Import utilities
-source "./scripts/utils.sh"
-
 ## Ensure python installed
 echo -n Ensuring python is installed ...
 python3 --version > /dev/null 2>&1
