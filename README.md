@@ -11,4 +11,5 @@ chmod +x ./run-code-server.sh
 ./run-code-server.sh
 ```
 
-**WARNING:** The cloud shell instance will be created in ephemeral mode. This means no changes will persist after your session closes. Make sure you save your work to an external destination.
+<span style="color:red">**WARNING**</span> \
+The cloud shell instance will be created in ephemeral mode. This means no changes will persist after your session closes. Make sure you save your work to an external destination.
